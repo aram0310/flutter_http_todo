@@ -1,6 +1,6 @@
 # my_todo
+Uses a free API to perform read, write, delete and update operations using flutter codes. 
 
-A new Flutter application.
 
 ## Getting Started
 
