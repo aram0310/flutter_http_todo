@@ -8,10 +8,10 @@ import 'package:my_todo/models/notes.dart';
 import 'package:my_todo/services/api_response.dart';
 
 
-const client_id = '7af367b37d5644df84f735cf381b3334';
-const client_secret = '84cc82e7e9164feb8d1cb881cf9551a3';
+const client_id = '';
+const client_secret = '';
 
-const access_token = '6bfc28d747840ddeb94c72cef5ea512ffdddd938';
+const access_token = '';
 
 
 
